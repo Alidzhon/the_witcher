@@ -23,7 +23,6 @@ body {
 }
 
 .container {
-  border: 1px solid red;
   width: 95%;
   max-width: 1140px;
   margin: auto;
